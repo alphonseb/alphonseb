@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Hi, I'm Alphonse, welcome to my list of green squares!
+Don't hesitate to get in touch if you have anything you'd like to talk about ⬇️
+
+## Get in touch
+- Twitter: (alphonthewww)[https://twitter.com/alphonthewww]
+- Linkedin : (Alphonse Bouy)[https://linkedin.com/in/alphonse-bouy]
+
 <!--
 **alphonseb/alphonseb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
