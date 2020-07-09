@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 Hi, I'm Alphonse, welcome to my list of green squares!
 Don't hesitate to get in touch if you have anything you'd like to talk about ⬇️
